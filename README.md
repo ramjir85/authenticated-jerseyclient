@@ -24,7 +24,7 @@ the actual service.
 ## How to use it? 
 
  Spring/Springboot Applications
-   - Download the authenticated-jerseyclient()
+   - Download the authenticated-jerseyclient(https://github.com/ramjir85/authenticated-jerseyclient)
    - Build the project with gradle
      ```
       ./gradlew clean build
